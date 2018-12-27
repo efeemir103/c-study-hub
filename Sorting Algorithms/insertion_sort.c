@@ -27,5 +27,5 @@ void printArr(int arr[],int size){
 }
 
 void sortArr(int arr[],int size){
-
+//ill do this part after eating ;)
 }
