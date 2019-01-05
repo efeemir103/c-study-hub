@@ -4,7 +4,7 @@
   * Create More Examples
 
 ![Salih Bayar is waiting for the show][salih]
-> Ill make my show after finals.
+> I will make my show after finals...
 
 
 [salih]: http://www.salihbayar.com/img/salih7.jpg
