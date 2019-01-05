@@ -2,7 +2,8 @@
 * ## Study for CSE114
   * Create Examples on String Functions (string.h library)
   * Create More Examples
-![Salih Bayar is waiting for the show][salih]
+*Get Ready
+*![Salih Bayar is waiting for the show][salih]
 
 
 
