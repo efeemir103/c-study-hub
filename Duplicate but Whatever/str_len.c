@@ -1,12 +1,13 @@
 #include <stdio.h>
-int myname(char name[]){
+int strlen(char str[]){
 	int i,length=0;
-	for(i=0;name[i]!='\0';i++){
+	for(i=0;str[i]!='\0';i++){
 		length++;
-		}
+	}
 	return length;
 }
 int main(){
-	char size[]="Mucahitdonmez";
-	printf("%d", myname(size));
+	char name[]="Mucahitdonmez";
+	printf("%d", strlen(name));
+	return 0;
 }
