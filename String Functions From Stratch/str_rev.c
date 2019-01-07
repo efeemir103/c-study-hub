@@ -10,6 +10,6 @@ void backmyname(char name[]){
 int main(){
 	char text[100];
 	scanf("%s", text);
-	terscevir(text);
+	backmyname(text);
 	printf("%s", (text));
 }
