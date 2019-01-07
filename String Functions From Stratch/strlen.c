@@ -12,4 +12,5 @@ int strlen(char str[]){
   while(str[size]){
     size++;
   }
+  return size;
 }
