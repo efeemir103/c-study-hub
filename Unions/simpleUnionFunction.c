@@ -1,13 +1,13 @@
 #include <stdio.h>
 #include <string.h>
 
-union faruk{
+union info{
 	char name[100];
 	char city[100];
 	int age;
 	int birth;
 };
-void myyy(union faruk a){
+void test(union info a){
 	strcpy(a.name,"FARUK");
 	a.birth=1999;
 	strcpy(a.city,"ANTALYA");
@@ -15,6 +15,6 @@ void myyy(union faruk a){
 	printf("%d", a.birth);
 }
 int main(){
-	union faruk faruk1;
-	myyy(faruk1);
+	union info faruk;
+	test(faruk);
 }
