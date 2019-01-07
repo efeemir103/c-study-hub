@@ -3,7 +3,7 @@
 int strchr(char str[],char find);
 
 int main(){
-  
+  printf("Index is: %d",strchr("Hello World!",'o'));
   return 0;
 }
 
