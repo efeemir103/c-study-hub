@@ -9,4 +9,4 @@ int myname(char name[]){
 int main(){
 	char size[]="Mucahitdonmez";
 	printf("%d", myname(size));
-}*/
+}
