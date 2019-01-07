@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-void myarr(int ary[],int size){
+void printReverseArray(int ary[],int size){
 	int i,temp;
 	for(i=0;i<size/2;i++){
 		temp=ary[i];
@@ -25,5 +25,5 @@ int main(){
 	}
 	printf("\n\n");
 	printf("This is your reversed array:\n");
-	myarr(array,size);
+	printReverseArray(array,size);
 }
