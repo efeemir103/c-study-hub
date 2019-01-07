@@ -3,7 +3,8 @@
 int strlen(char str[]);
 
 int main(){
-
+  char ex[]="Electrical Engineering";
+  printf("Length of ex is: %d\n",strlen(ex));
   return 0;
 }
 
