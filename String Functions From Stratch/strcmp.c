@@ -3,7 +3,7 @@
 int strcmp(char dest[],char src[]);
 
 int main(){
-  printf("Compare result is: %d",strcmp("abc","abd"));
+  printf("Compare result is: %d\n",strcmp("abc","abd"));
   return 0;
 }
  
